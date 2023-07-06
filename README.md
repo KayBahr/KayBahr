@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any fun project with Python.**
 
-- 💬 Ask me about **React,**
+- 💬 Ask me about **React, Python, HTML5**
 
 - 📫 How to reach me **kaybear0002@gmail.com**
 
